@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.nusocial
 
 import android.os.Bundle
 import android.view.Menu
