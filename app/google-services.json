@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "272217132811",
+    "firebase_url": "https://social-2000.firebaseio.com",
+    "project_id": "social-2000",
+    "storage_bucket": "social-2000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272217132811:android:34f51a58468bc0ea9a5c0e",
+        "android_client_info": {
+          "package_name": "com.example.nusocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272217132811-d56g0h621op414t89qhuvb437nn36k7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADH9orS6gDDGgAMzSIFuobOkoIQ8F7YD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272217132811-d56g0h621op414t89qhuvb437nn36k7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
