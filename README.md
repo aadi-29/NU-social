@@ -13,8 +13,8 @@ The purpose of this app is to solve the common problem which a student (living i
 * Few specific users will be granted access to `broadcast` message either to batch or everyone. These specific users will be decided by the maintainer of the app. Howerver, a user can ask for permission by giving valid reasons.
 
 ## Contributors
-* [Aaditya Gupta]([https://github.com/aadi-29](https://github.com/aadi-29))
-* [Deen Srivatsava]([https://github.com/deenanathS](https://github.com/deenanathS))
-* [Mayank Garg]([https://github.com/martinetmayank](https://github.com/martinetmayank))
-* [Priyanshu Joshi]([https://github.com/priyanshujoshilpj](https://github.com/priyanshujoshilpj))
+* [Aaditya Gupta](https://github.com/aadi-29)
+* [Deen Srivatsava](https://github.com/deenanathS)
+* [Mayank Garg](https://github.com/martinetmayank)
+* [Priyanshu Joshi](https://github.com/priyanshujoshilpj)
 * [Shikhar Dixit](https://github.com/ShikharDixit627)
